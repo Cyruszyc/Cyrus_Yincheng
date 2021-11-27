@@ -1,0 +1,22 @@
+I"�<p>Hi, you can access this site <a href="https://www.youtube.com">Youtube</a> to see the world.</p>
+
+<ol class="task-list">
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" checked="checked" />you are the best</li>
+  <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" />You are terrible</li>
+</ol>
+
+<ul>
+  <li>Trust yourself</li>
+</ul>
+
+<h3 id="showing-how-to-work-locally-using-git">Showing how to work locally using git</h3>
+<p>-fork the repo
+-rename it
+-enable git hub pages
+-clone it locally
+-editing locally
+-git status
+-git add .
+-git commit -m “”
+-git push</p>
+:ET
