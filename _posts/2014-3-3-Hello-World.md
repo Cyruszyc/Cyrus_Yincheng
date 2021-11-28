@@ -2,7 +2,7 @@
 layout: post
 title: Hansard-Official Record of UK Parliament Debate
 ---
-If you have questions and want search more information, you can access [Hansord]. 
+If you have any questions or want to search more information, you can access [Hansord]. 
 
 ### Q1: What kinds of research could people do using the information in Hansard as a resource?
 
