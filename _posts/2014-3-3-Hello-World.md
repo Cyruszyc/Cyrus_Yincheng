@@ -2,7 +2,7 @@
 layout: post
 title: Hansard-Official Record of UK Parliament Debate
 ---
-If you have questions and want search more information, you can access Hansord. (https://www.parliament.uk)
+If you have questions and want search more information, you can access [Hansord]. 
 
 ### Q1: What kinds of research could people do using the information in Hansard as a resource?
 
@@ -12,6 +12,7 @@ A1: Hansard is the official report of all parliamentary debates. It could be a r
 
 A2: Personally speaking, I think the Hansard website facilitate those kinds of research very well because of its nice interface and convenient search bar. In the homepage, the main categories of Hansard and the search bar are at the top of the site, which looks bold. If you scroll down, you could see quick links that guide you want to go quickly. And the transcripts of the latest House of sitting are divided into two main chambers, Commons and Hansard. More importantly, it provides the time filter for researchers to find the exact document of each day. But on the homepage, you could see some featured news that are irrelevant, such as shops news or latest products, which may confuse people who want to search document to some extent.
 
+[Hansord]: https://www.parliament.uk/
 
 
 
