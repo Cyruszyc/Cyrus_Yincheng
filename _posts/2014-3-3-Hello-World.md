@@ -21,7 +21,7 @@ Two functions
 2. Provide standards for waste separation. In addition to large items of rubbish, there are also standards for the separation of small items of rubbish. This is partly because some cities have already made it a requirement to separate waste, but it can be difficult for people to identify which waste belongs where. Our app can help with this. On the other hand, people nowadays rarely accumulate waste such as plastic bottles and cardboard boxes for recycling. It is difficult to go for door-to-door recycling.
 
 #### Idea3:
-【Function of "Reduce E-waste" APP】
+<P>【Function of "Reduce E-waste" APP】</p>
 1.Before purchasing electronic products
 · users scan the product that they would like to buy, getting information about products' metal content, life 
 · knowing how to use products in a life-long way
