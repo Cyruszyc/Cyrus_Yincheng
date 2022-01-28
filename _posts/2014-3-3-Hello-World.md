@@ -4,7 +4,8 @@ title: Group idea
 ---
 
 ### Q: How might we “ensure sustainable consumption and production”?
-##Idea1: 
+
+#### Idea1: 
 1.Waste Recycle App：
 Use the app to scan the waste, and the app will inform the user what kind of material it is, can it be recycled or not, and where to put it. Users can take the waste to the nearest collection point and get cash rewards, which they can use to purchase goods again or donate to some environmental protection projects. Besides, users’recycling history can be recorded and visualized, showing them the amount of each type of recycled garbage (like plastic, metal and the like), and the proportion of recycling and disposable use.
 
