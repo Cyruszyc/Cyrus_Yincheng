@@ -22,7 +22,8 @@ Two functions
 
 #### Idea3:
 <P>【Function of "Reduce E-waste" APP】</p>
-1.Before purchasing electronic products
+
+1. Before purchasing electronic products
 · users scan the product that they would like to buy, getting information about products' metal content, life 
 · knowing how to use products in a life-long way
 
@@ -37,24 +38,22 @@ Two functions
 · create a reference number for products, by using it users may know the track of their products
 · get green point which allows users to pay electronic products by those points
 
-#### idea4:
+#### Idea4:
 Based on the Target 12.2: Sustainable management and use of natural resources
 
 Management and use of fossil fuels of private cars App
-
-Functions 
-
+##### Functions 
 1. Educate drivers to not waste fuels. Uploading videos constantly about climate change problems with the consumption of fuels and the knowledge tips about how to manage usage of our fossil fuels. In addition, design a game about knowledge of the negative impact of fossil fuels and rank player per day. Give some reward to those who have high scores every month.
 2. Monitor the consumption of fossil fuels created by private cars. Link every private car that uses fuels or hybrids to our App to monitor the consumption of fuels. Show the data of consumption of fuels caused by per private car constantly in domestic and global perspective. In addition, show the average domestic and global consumption of fossil fuels to let every citizen directly see whether they do well in managing fossil fuels. For those people who are below the average, governments and companies could implement some subsidies policy to award them, such as lower car insurance fees.
 
 #### Idea5:
 Food Save App
 
-Supermarkets sell food that is about to expire at a discount
+1. Supermarkets sell food that is about to expire at a discount
 
 The customer can purchase the food nearly expiration online at a lower price to avoid inventory waste in the markets.
 
-Food Saving Community
+2. Food Saving Community
 
 Customers post in the online community that they are saving food or packing restaurant leftovers.
 
@@ -62,7 +61,7 @@ At the end of a diner's meal, they can choose to sell a particular dish that the
 
 Both the buyer and seller can be rewarded by the platform after the transaction is completed, such as points or vouchers that can be used to buy other food in the app. These foods are also from slow-moving produce from farmers or factories.
 
-Online Sales for Stagnant
+3. Online Sales for Stagnant
 
 In markets where supply often exceeds demand, farmers or factories that do not accurately anticipate market signals would waste tons of products.
 
