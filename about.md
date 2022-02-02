@@ -8,8 +8,6 @@ Some information about you!
 
 ### More Information
 
-<h4> Our group Formative Assessment is below, plese download the document through the link</h4>
-      <a href= "Formative Assessment Group2.zip"> Downlaod our Formative Assessment </a>
 
 
 ### Contact me
