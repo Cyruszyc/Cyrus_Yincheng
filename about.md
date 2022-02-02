@@ -8,8 +8,10 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+<h4> Our group Formative Assessment is below, plese download the document through the link</h4>
+      <a href= "Formative Assessment Group2.zip"> Downlaod our Formative Assessment </a>
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[k21022591@kcl.ac.uk](mailto:k21022591@kcl.ac.uk)
